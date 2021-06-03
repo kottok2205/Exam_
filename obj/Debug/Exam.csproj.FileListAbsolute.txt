@@ -1,0 +1,14 @@
+D:\C#\Exam\bin\Debug\Exam.exe.config
+D:\C#\Exam\bin\Debug\Exam.exe
+D:\C#\Exam\bin\Debug\Exam.pdb
+D:\C#\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+D:\C#\Exam\obj\Debug\MainWindow.g.cs
+D:\C#\Exam\obj\Debug\App.g.cs
+D:\C#\Exam\obj\Debug\Exam_MarkupCompile.cache
+D:\C#\Exam\obj\Debug\Exam_MarkupCompile.lref
+D:\C#\Exam\obj\Debug\MainWindow.baml
+D:\C#\Exam\obj\Debug\Exam.g.resources
+D:\C#\Exam\obj\Debug\Exam.Properties.Resources.resources
+D:\C#\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+D:\C#\Exam\obj\Debug\Exam.exe
+D:\C#\Exam\obj\Debug\Exam.pdb
